@@ -33,7 +33,3 @@ This course introduces the basics of C++, focusing on data structures, loops, pr
 ### 8. **React Basics**
 [Link to course](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
 A beginner-level course introducing React for building interactive user interfaces. Topics include components, state management, and props, with hands-on practice in creating simple web applications.
-
-### 9. **Sedgewick's Introduction to Programming**  
-[Link to course](https://introcs.cs.princeton.edu/python/home/)  
-This course from Princeton, taught by Robert Sedgewick, teaches core programming concepts using Python, with a strong emphasis on mathematical and abstract thinking. It covers variables, conditionals, loops, functions, and modules, progressing to object-oriented programming and data abstraction. Students also learn fundamental algorithms (sorting, searching) and data structures (stacks, queues), all framed through real-world applications in fields like materials science, genomics, and astrophysics.
