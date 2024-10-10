@@ -1,0 +1,26 @@
+Case #1
+*****Account corleone not found.
+Money of corleone:            0.
+Account corleone already exists.
+Money of corleone:         -100.
+Money of fanucci:           100.
+--------------------------------
+Case #2
+*****Account leia not found.
+Account chewbacca not found.
+*****Account r2d2 not found.
+*****Account c3po not found.
+----------------------------
+Case #3
+*****Account r2d2 not found.
+Money of c3po:      4000000.
+*****Account leia not found.
+Money of r2d2:    -64000000.
+*****Account leia not found.
+Account r2d2 already exists.
+Money of r2d2:    -64000000.
+*****Account r2d2 not found.
+----------------------------
+Case #4
+Money of r2d2: 0.
+-----------------

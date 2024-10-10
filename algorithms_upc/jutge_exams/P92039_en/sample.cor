@@ -1,0 +1,18 @@
+x -> x
+y -> h ( x )
+z -> f ( x h ( x ) )
+
+No solution!
+
+No solution!
+
+abc -> abc
+z -> z
+
+uu -> gh ( uv )
+uv -> uv
+w -> gg ( uv gg ( f ( uv ) z ) )
+x -> f ( uv )
+y -> gg ( f ( uv ) z )
+z -> z
+

@@ -1,0 +1,20 @@
+n hola
+n adeu
+n hello
+s hello hola
+n hi
+n bye
+s bye adeu
+s hola hi
+s hi hello
+f
+n hello
+n hola
+n bonjour
+n halo
+s hola hola
+s hola bonjour
+s hello halo
+s bonjour hola
+s hello hola
+f

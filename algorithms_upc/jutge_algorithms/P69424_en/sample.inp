@@ -1,0 +1,36 @@
+4
+
+QUERY corleone
+NEW corleone
+QUERY corleone
+NEW corleone
+NEW fanucci
+TRANSFER corleone fanucci 100
+QUERY corleone
+QUERY fanucci
+END
+
+QUERY leia
+DELETE chewbacca
+TRANSFER r2d2 c3po 1000
+END
+
+NEW c3po
+TRANSFER r2d2 c3po 4000000
+NEW r2d2
+TRANSFER r2d2 c3po 4000000
+NEW chewbacca
+QUERY c3po
+QUERY leia
+TRANSFER r2d2 chewbacca 60000000
+QUERY r2d2
+TRANSFER r2d2 leia 1000
+NEW r2d2
+QUERY r2d2
+DELETE r2d2
+QUERY r2d2
+END
+
+NEW r2d2
+QUERY r2d2
+END

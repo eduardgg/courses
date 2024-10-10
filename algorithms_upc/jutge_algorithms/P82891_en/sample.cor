@@ -1,0 +1,11 @@
+1 : NOT pseudoperfect
+6 : pseudoperfect
+10 : NOT pseudoperfect
+20 : pseudoperfect
+210 : pseudoperfect
+2310 : 31 proper divisors
+65536 : 16 proper divisors
+1000000000 : 99 proper divisors
+999999996 : pseudoperfect
+999999937 : NOT pseudoperfect
+999999936 : 167 proper divisors

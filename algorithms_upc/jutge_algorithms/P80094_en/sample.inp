@@ -1,0 +1,17 @@
+2
+R Smith 1000
+G Taylor 20000
+END
+
+1
+P Taylor 20000 Smith
+END
+
+3
+P Blue 3 Red
+G Brown 100000
+R Blue 3
+R Orange 5000
+P White 1 Blonde
+R Pink 12345
+END

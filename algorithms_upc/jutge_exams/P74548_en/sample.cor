@@ -1,0 +1,12 @@
+Case 1
+A0a-B1b
+A0b-B1a
+A1a-B0b
+A1b-B0a
+Case 2
+A0a
+Case 3
+A0a-B1b
+A0b-B1a
+A1a-B0b
+A1b-B0a

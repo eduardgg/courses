@@ -1,0 +1,10 @@
+a -> e
+b -> b
+c -> a
+d -> d
+e -> e
+--------------------
+abc -> abc
+abcde -> abcde
+zzzzz -> abcde
+--------------------

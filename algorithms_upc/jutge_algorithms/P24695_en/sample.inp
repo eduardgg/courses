@@ -1,0 +1,18 @@
+2 Tyrell Rachael 2
+Tyrell : Rachael is a replicant
+Rachael : Tyrell is a replicant
+
+2 Tyrell Rachael 2
+Tyrell : Rachael is a replicant
+Rachael : Tyrell is human
+
+2 Tyrell Rachael 2
+Rachael : Tyrell is human
+Rachael : Tyrell is a replicant
+
+4 Tyrell Rachael Sebastian Pris 5
+Pris : Rachael is human
+Tyrell : Rachael is a replicant
+Rachael : Tyrell is a replicant
+Pris : Tyrell is a replicant
+Rachael : Pris is human

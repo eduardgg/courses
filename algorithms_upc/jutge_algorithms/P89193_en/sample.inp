@@ -1,0 +1,8 @@
+Castle  1.0 1.0
+Town    1.0 4.0
+Town    Tower   Lighthouse  -45.0
+Castle  Town    Tower        45.0
+Town    Tower   Gardens     -90.0
+Town    Gardens Lighthouse  -30.0
+Castle  Town    Gardens      90.0
+Town    Castle  Tower       -90.0

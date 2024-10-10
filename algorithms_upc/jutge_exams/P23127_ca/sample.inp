@@ -1,0 +1,40 @@
+4
+luis que_el_club_de_runners_sigui_oficial
+javier que_les_rotacions_de_la_gimcama_siguin_un_quadrat_llati
+fontana estar_amb_els_seus_amics_a_l_equip
+miguel que_el_seu_equip_es_digui_team_tryhards
+5
+fontana SI estar_amb_els_seus_amics_a_l_equip
+javier NO que_el_seu_equip_es_digui_team_tryhards
+miguel NO que_el_seu_equip_es_digui_team_tryhards
+luis SI que_el_seu_equip_es_digui_team_tryhards
+miguel SI que_el_seu_equip_es_digui_team_tryhards
+
+1
+jordi qualsevol_bestiesa
+1
+jordi NO qualsevol_bestiesa
+
+2
+anna estudiar
+ivet jugar
+2
+anna SI jugar
+ivet SI jugar
+
+4
+a z
+b y
+c x
+d w
+10
+d SI y
+a SI y
+b SI w
+b NO y
+c SI y
+b SI w
+a SI z
+c SI z
+a NO z
+b SI y

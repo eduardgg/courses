@@ -1,0 +1,25 @@
+3
+
+4
+fast_food vegetarian_food
+classic_music alternative_music heavy_music
+milk_shakes croissants
+sauna swimming_pool
+4
+Morito milk_shakes sauna
+Vinyes alternative_music croissants
+Masdeu heavy_music vegetarian_food
+Maltines fast_food sauna
+
+2
+aa bb cc
+xx yy zz
+3
+f aa xx
+g bb yy
+h cc zz
+
+1
+a b c d e
+1
+Lonesome b d
